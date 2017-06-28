@@ -1,4 +1,3 @@
-/* globals FontFaceObserver */
 const FontFaceObserver = require('fontfaceobserver/fontfaceobserver.standalone.js');
 import { perfMark } from '../main';
 const fontLoadedPrefix = 'o-typography--loaded-';
