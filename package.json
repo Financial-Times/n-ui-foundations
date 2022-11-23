@@ -36,7 +36,7 @@
     "@financial-times/o-viewport": "^5.1.1",
     "@financial-times/o-visual-effects": "^4.2.0",
     "babel-core": "^6.22.1",
-    "babel-loader": "^6.2.10",
+    "babel-loader": "^9.1.0",
     "babel-plugin-add-module-exports": "^0.2.1",
     "babel-plugin-transform-es2015-classes": "^6.22.0",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.22.0",
@@ -60,7 +60,7 @@
     "sinon": "^2.4.1",
     "sinon-chai": "^2.8.0",
     "snyk": "^1.168.0",
-    "webpack": "^1.14.0"
+    "webpack": "^5.75.0"
   },
   "config": {},
   "engines": {
