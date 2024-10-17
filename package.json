@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/Financial-Times/n-ui-foundations#readme",
   "devDependencies": {
-    "@financial-times/n-gage": "^8.3.2",
+    "@financial-times/n-gage": "^9.0.1",
     "@financial-times/o-buttons": "^7.7.1",
     "@financial-times/o-colors": "^6.4.2",
     "@financial-times/o-fonts": "^5.3.4",
