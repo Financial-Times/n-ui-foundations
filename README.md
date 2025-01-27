@@ -1,3 +1,6 @@
+> [!WARNING]
+> `n-ui-foundations` is deprecated. For apps, it's been replaced by `dotcom-ui-base-styles`, which is part of [Page Kit](https://github.com/financial-times/dotcom-page-kit/). For components, you should depend on Origami components directly.
+
 # n-ui-foundations
 
 Sass and JS utilities for the next front-end for use by components and apps.
